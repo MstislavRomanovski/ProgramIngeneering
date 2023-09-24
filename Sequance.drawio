@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T15:25:54.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GnzJg5Ask4AZM_V0IUdw" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T16:42:58.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="M6rprB5hLNhcKg6KqDwW" version="21.7.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1259" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Redactor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="250" y="100" width="100" height="540" as="geometry" />
+          <mxGeometry x="250" y="100" width="100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Canvas_Panel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="440" y="160" width="100" height="480" as="geometry" />
+          <mxGeometry x="440" y="160" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-4" value="Main_Panel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="210" width="100" height="430" as="geometry" />
+          <mxGeometry x="550" y="210" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-5" value="Options_Panel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="100" height="370" as="geometry" />
+          <mxGeometry x="660" y="270" width="100" height="540" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-6" value="Figure_Panel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="780" y="320" width="100" height="320" as="geometry" />
+          <mxGeometry x="780" y="320" width="100" height="490" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-7" value="Canvas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="880" y="400" width="100" height="240" as="geometry" />
+          <mxGeometry x="880" y="400" width="100" height="410" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-8" value="Figure" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1040" y="470" width="100" height="170" as="geometry" />
+          <mxGeometry x="1040" y="470" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-15" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="20" height="580" as="geometry" />
+          <mxGeometry x="100" y="60" width="20" height="740" as="geometry" />
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-16" value="Open Redactor" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -76,22 +76,22 @@
             <mxPoint x="1040" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38EyoLRpENG-E7wULdpG-25" value="Choose figure" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="38EyoLRpENG-E7wULdpG-25" value="Choose figure and place it" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="110" y="454.50000000000006" as="sourcePoint" />
             <mxPoint x="599.5" y="454.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38EyoLRpENG-E7wULdpG-26" value="Save file" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="38EyoLRpENG-E7wULdpG-4">
+        <mxCell id="38EyoLRpENG-E7wULdpG-26" value="Save file" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="110" y="600" as="sourcePoint" />
-            <mxPoint x="599.5" y="600" as="targetPoint" />
+            <mxPoint x="110" y="760" as="sourcePoint" />
+            <mxPoint x="599.5" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38EyoLRpENG-E7wULdpG-27" value="save()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="38EyoLRpENG-E7wULdpG-7">
+        <mxCell id="38EyoLRpENG-E7wULdpG-27" value="save()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="600" y="620" as="sourcePoint" />
-            <mxPoint x="920" y="620" as="targetPoint" />
+            <mxPoint x="600" y="780" as="sourcePoint" />
+            <mxPoint x="929.4999999999995" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="38EyoLRpENG-E7wULdpG-31" value="render_Canvas()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="38EyoLRpENG-E7wULdpG-7">
@@ -103,6 +103,36 @@
               <mxPoint x="1000" y="570" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38EyoLRpENG-E7wULdpG-32" value="Delete figure" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="670" as="sourcePoint" />
+            <mxPoint x="829.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38EyoLRpENG-E7wULdpG-33" value="delete_object()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="930" y="730" as="sourcePoint" />
+            <mxPoint x="1089.4999999999995" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38EyoLRpENG-E7wULdpG-34" value="delete()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="830" y="710" as="sourcePoint" />
+            <mxPoint x="929.4999999999995" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38EyoLRpENG-E7wULdpG-35" value="get_object()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="929.4999999999995" y="639.5799999999998" as="sourcePoint" />
+            <mxPoint x="829.3235294117644" y="639.5799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38EyoLRpENG-E7wULdpG-36" value="&amp;nbsp;Choose figure to change" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="610" as="sourcePoint" />
+            <mxPoint x="829.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
