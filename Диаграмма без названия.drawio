@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T10:59:49.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iDLFSSo_k1sdPYercyvR" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T13:52:39.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JPcwZFELRgpy4O2u3ztC" version="21.8.2" type="github">
   <diagram name="Страница — 1" id="8Ea1oaCpZVZsOnpf_MXl">
-    <mxGraphModel dx="1799" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
             <mxPoint x="220" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I9Xg0yJfJ16n1XP8R82h-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.954;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9oZlGw_E0PTlBS_OEf-N-33" source="9oZlGw_E0PTlBS_OEf-N-4" target="9oZlGw_E0PTlBS_OEf-N-14">
+        <mxCell id="I9Xg0yJfJ16n1XP8R82h-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.954;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9oZlGw_E0PTlBS_OEf-N-33" source="9oZlGw_E0PTlBS_OEf-N-4" target="9oZlGw_E0PTlBS_OEf-N-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="305" as="sourcePoint" />
             <mxPoint x="210" y="210" as="targetPoint" />
