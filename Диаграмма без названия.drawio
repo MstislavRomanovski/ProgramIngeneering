@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T16:07:19.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Lp8IgP8tcgGAb_Diiofg" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T16:10:52.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="30Zp04YOxRR9gNe4Rhog" version="21.8.2" type="github">
   <diagram name="Страница — 1" id="8Ea1oaCpZVZsOnpf_MXl">
     <mxGraphModel dx="1247" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V4i8b1m4TsCkMUbFpvic-3" value="Сохранить в выбранном формате" style="ellipse;whiteSpace=wrap;html=1;" parent="9oZlGw_E0PTlBS_OEf-N-33" vertex="1">
-          <mxGeometry x="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V4i8b1m4TsCkMUbFpvic-5" value="Отрисовать выбранной графической библиотекой" style="ellipse;whiteSpace=wrap;html=1;" parent="9oZlGw_E0PTlBS_OEf-N-33" vertex="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
@@ -65,7 +65,7 @@
         <mxCell id="9oZlGw_E0PTlBS_OEf-N-21" value="Сохранить изображение" style="ellipse;whiteSpace=wrap;html=1;" parent="9oZlGw_E0PTlBS_OEf-N-33" vertex="1">
           <mxGeometry x="230" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V4i8b1m4TsCkMUbFpvic-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="9oZlGw_E0PTlBS_OEf-N-33" source="9oZlGw_E0PTlBS_OEf-N-21" target="V4i8b1m4TsCkMUbFpvic-3" edge="1">
+        <mxCell id="V4i8b1m4TsCkMUbFpvic-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="9oZlGw_E0PTlBS_OEf-N-33" source="9oZlGw_E0PTlBS_OEf-N-21" target="V4i8b1m4TsCkMUbFpvic-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="220" y="140" as="sourcePoint" />
             <mxPoint x="380" y="140" as="targetPoint" />
