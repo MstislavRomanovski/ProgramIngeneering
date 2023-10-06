@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T17:14:50.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="63sKRLVtiiuDLWQMNEjp" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T17:21:01.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="X9QEw6l9gt6vzGhDy7IB" version="21.8.2" type="github">
   <diagram name="Страница — 1" id="IcskS1x6L9GqO2Q_vGER">
     <mxGraphModel dx="2022" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,24 +11,24 @@
           <mxGeometry x="-110" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-5" value="Курьер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="-120" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-6" value="Приложение" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-7" value="Поместить товар в корзину" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="-70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-8" value="Выбрать товар" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-9" value="Оформить заказ&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-11" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-2" target="DIUMw2C9mKSduQeqxSrr-8">
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-11" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="70" y="260" as="sourcePoint" />
-            <mxPoint x="230" y="259.65999999999997" as="targetPoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-12" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-8" target="DIUMw2C9mKSduQeqxSrr-7">
@@ -48,13 +48,13 @@
             <mxPoint x="230" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-15" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DIUMw2C9mKSduQeqxSrr-14">
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-15" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DIUMw2C9mKSduQeqxSrr-14">
           <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-17" value="Удалить товар из корзины" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-90" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="-190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-18" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-17" target="DIUMw2C9mKSduQeqxSrr-7">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -68,10 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-21" value="Применить фильтр" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-22" value="Сохранить заказ в историю заказов&lt;br&gt;пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-23" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DIUMw2C9mKSduQeqxSrr-22">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-25" value="Добавить товар в избранное" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry y="-70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-26" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-8" target="DIUMw2C9mKSduQeqxSrr-25">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -99,10 +99,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-28" value="Отобразить список товаров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-29" value="Обновить список товаров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-30" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-6" target="DIUMw2C9mKSduQeqxSrr-28">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -127,10 +127,10 @@
             <mxPoint x="430" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-36" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-38" target="DIUMw2C9mKSduQeqxSrr-9">
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-36" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-38">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="530" y="60" as="sourcePoint" />
-            <mxPoint x="560" y="80" as="targetPoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-37" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DIUMw2C9mKSduQeqxSrr-36">
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-38" value="Получить сведенья о заказе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="115" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-39" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-6" target="DIUMw2C9mKSduQeqxSrr-9">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -147,7 +147,7 @@
             <mxPoint x="480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-40" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-29" target="DIUMw2C9mKSduQeqxSrr-28">
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-40" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-29" target="DIUMw2C9mKSduQeqxSrr-28">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="430" y="360" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-43" value="Зарегистрировать пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-44" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-1" target="DIUMw2C9mKSduQeqxSrr-43">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -184,6 +184,27 @@
             <mxPoint x="-100" y="150" as="sourcePoint" />
             <mxPoint x="-155" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-49" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIUMw2C9mKSduQeqxSrr-5" target="DIUMw2C9mKSduQeqxSrr-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-51" value="Осущевствить доставку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-52" value="Закрыть заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-54" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DIUMw2C9mKSduQeqxSrr-51">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-90" y="420" as="sourcePoint" />
+            <mxPoint x="-30" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIUMw2C9mKSduQeqxSrr-55" value="Отменить заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
