@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T17:28:52.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="g-pgqnZY5uxt-Gz4REg6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T17:30:19.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WMRAKA3jQYmijQIe1tMF" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="QKT6WsH2Z0uWWN3aXLzz">
-    <mxGraphModel dx="3217" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R161lrSTg0WXfEPUk8Zl-27" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="280" width="700" height="170" as="geometry" />
+          <mxGeometry x="-40" y="280" width="730" height="170" as="geometry" />
         </mxCell>
         <mxCell id="R161lrSTg0WXfEPUk8Zl-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="565" y="350" width="10" height="40" as="geometry" />
