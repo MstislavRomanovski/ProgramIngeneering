@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T18:10:06.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="crB_zq6RL2DicwOigOxu" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T18:11:05.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jm9ms5Rl9okSRSa62Rap" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="QKT6WsH2Z0uWWN3aXLzz">
     <mxGraphModel dx="2514" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         <mxCell id="R161lrSTg0WXfEPUk8Zl-55" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="780" width="225" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="R161lrSTg0WXfEPUk8Zl-56" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="240" y="850" width="230" height="8" as="geometry" />
+        <mxCell id="R161lrSTg0WXfEPUk8Zl-56" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="850" width="225" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
