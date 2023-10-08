@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T14:52:11.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-vvpbPDCCdqjxOdzRLN_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T17:53:15.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WCNrO4cB7YZW6KG8x1IU" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="IcskS1x6L9GqO2Q_vGER">
-    <mxGraphModel dx="2620" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,20 +88,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIUMw2C9mKSduQeqxSrr-24" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DIUMw2C9mKSduQeqxSrr-23" vertex="1" connectable="0">
-          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-25" value="Добавить товар в избранное" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="-120" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-26" value="" style="endArrow=open;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="DIUMw2C9mKSduQeqxSrr-8" target="DIUMw2C9mKSduQeqxSrr-25" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="370" y="150" as="sourcePoint" />
-            <mxPoint x="290" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIUMw2C9mKSduQeqxSrr-27" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DIUMw2C9mKSduQeqxSrr-26" vertex="1" connectable="0">
           <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
