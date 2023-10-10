@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T17:45:17.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iXQErO-6GaYOub5ntKNe" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T17:46:09.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4R6QRDVMac9xLVdqa9Ol" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="QKT6WsH2Z0uWWN3aXLzz">
-    <mxGraphModel dx="2620" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,27 +194,27 @@
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-55" value="delete_Product()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="R161lrSTg0WXfEPUk8Zl-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="720" as="sourcePoint" />
+            <mxPoint x="50" y="730" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="750" />
+              <mxPoint x="80" y="760" />
             </Array>
-            <mxPoint x="55" y="750" as="targetPoint" />
+            <mxPoint x="55" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-56" value="calc_payment_sum()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="R161lrSTg0WXfEPUk8Zl-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="790" as="sourcePoint" />
+            <mxPoint x="50" y="800" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="820" />
+              <mxPoint x="80" y="830" />
             </Array>
-            <mxPoint x="55" y="820" as="targetPoint" />
+            <mxPoint x="55" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R161lrSTg0WXfEPUk8Zl-7">
-          <mxGeometry x="45" y="810" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="820" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R161lrSTg0WXfEPUk8Zl-7">
-          <mxGeometry x="45" y="740" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="750" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R161lrSTg0WXfEPUk8Zl-9" value="add_new_product()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -388,18 +388,21 @@
           <mxGeometry x="-40" y="715" width="840" height="375" as="geometry" />
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-59" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="565" y="920" width="10" height="10" as="geometry" />
+          <mxGeometry x="565" y="930" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-51" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="330.25" y="920" as="sourcePoint" />
-            <mxPoint x="569.7500000000005" y="920" as="targetPoint" />
+            <mxPoint x="330.25" y="930" as="sourcePoint" />
+            <mxPoint x="569.7500000000005" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KEKvrft_BPd6GVxRHbvh-52" value="delete_Product()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KEKvrft_BPd6GVxRHbvh-51">
           <mxGeometry x="0.1858" relative="1" as="geometry">
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KEKvrft_BPd6GVxRHbvh-60" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="912" width="840" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
