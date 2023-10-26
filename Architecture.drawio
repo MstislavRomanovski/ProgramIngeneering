@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T13:36:47.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aqb4doocIblfjqsGZo0K" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T13:39:59.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Yiyi1NcyH-xPWmTHkr8z" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="IaHMr_pDmn5Ov7Nt1VBB">
-    <mxGraphModel dx="2876" dy="2235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
         <mxCell id="iQS3pKAu2kEziGoePXVp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iQS3pKAu2kEziGoePXVp-32" target="iQS3pKAu2kEziGoePXVp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQS3pKAu2kEziGoePXVp-43" value="" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iQS3pKAu2kEziGoePXVp-43" value="системный слой" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="450" y="-110" width="500" height="630" as="geometry" />
         </mxCell>
         <mxCell id="GMFBuMF5g0w-1twt46TG-6" value="Подсистема работы с данными клиентами" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="iQS3pKAu2kEziGoePXVp-43">
